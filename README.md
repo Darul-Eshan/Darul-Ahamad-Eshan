@@ -5,7 +5,7 @@
 	💻 Web Developer — Laravel & WordPress
 	🌱 Passionate about problem-solving, clean code, and continuous learning
 
-🚀 About Me
+🚀 About Me 
 
 		🔹 Strong academic foundation with Diploma in Computer Technology and pursuing BSc in Computer Science & Engineering
 		🔹 Hands-on with Laravel, PHP, MySQL, HTML, CSS, Bootstrap
