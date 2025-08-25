@@ -9,14 +9,14 @@
 
 		🔹 Strong academic foundation with Diploma in Computer Technology and pursuing BSc in Computer Science & Engineering
 		🔹 Hands-on with Laravel, PHP, MySQL, HTML, CSS, Bootstrap
-		🔹 WordPress specialist: Elementor & WPBakery, plugin integration & customization, theme tweaking, and building responsive, content-driven sites
+		🔹 WordPress specialist: Elementor & WPBakery, plugin integration & customization, theme tweaking, and building 					responsive, content-driven sites
 		🔹 Experience as IT & Communication Associate at SERAC-Bangladesh
 		🔹 Comfortable with database design, REST APIs, and collaborative development
 
 🛠️ Tech Stack
 
-		Languages: PHP, JavaScript, C, Java
-		Backend: Laravel, REST APIs
+		Languages: PHP, C, Java
+		Backend: Laravel 
 		Frontend: HTML5, CSS, Bootstrap
 		CMS: WordPress (Elementor, WPBakery, plugin integration & customization, theme customization)
 		Database: MySQL
@@ -31,11 +31,6 @@
 		Plugin integration & light customization for added functionality
 		Performance-minded, responsive websites
 
-🏆 Highlights
-
-		🥇 Best Organizer – National Youth Conference on Family Planning 2025
-		🥇 Best Committee Member – Volunteers for Bangladesh
-		🎖 Youth Ambassador – JAAGO Foundation Online Safety Campaign
 
 📫 Connect
 	📧 daruleshan1122@gmail.com
