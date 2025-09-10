@@ -38,5 +38,6 @@
 
 
 ✨ “I love turning ideas into reliable, user-friendly web experiences.”
-![Visitor Count](https://profile-counter.glitch.me/Darul-Eshan/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=Darul-Eshan&color=blue)
+
 
