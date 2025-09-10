@@ -38,3 +38,5 @@
 
 
 ✨ “I love turning ideas into reliable, user-friendly web experiences.”
+![Visitor Count](https://profile-counter.glitch.me/Darul-Eshan/count.svg)
+
